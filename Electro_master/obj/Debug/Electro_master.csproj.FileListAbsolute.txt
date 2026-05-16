@@ -1,0 +1,15 @@
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\bin\Debug\Electro_master.exe.config
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\bin\Debug\Electro_master.exe
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\bin\Debug\Electro_master.pdb
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.csproj.AssemblyReference.cache
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.FrmDashboard.resources
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.FrmResumen.resources
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.frmStock.resources
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.FrmVentas.resources
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.Menu_Princ.resources
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.Properties.Resources.resources
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.csproj.GenerateResource.cache
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.csproj.CoreCompileInputs.cache
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.exe
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.pdb
+C:\Users\Yuren\source\repos\Electro_master\Electro_master\obj\Debug\Electro_master.exe.config
